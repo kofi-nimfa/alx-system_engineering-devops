@@ -1,2 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd) echo "the absolute path name of the current working directory is: $current_dir"
+pwd
